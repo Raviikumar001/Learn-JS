@@ -2,6 +2,8 @@
 // const READ_ONLY =1;
 // const AUTHOR =2;
 
+
+//this is a test array for the array methods.
 let array = [
   {
     name: "Coptic",
